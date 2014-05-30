@@ -1,0 +1,7 @@
+base
+ggplot2
+gridExtra
+knitr
+pander
+reshape2
+xtable
